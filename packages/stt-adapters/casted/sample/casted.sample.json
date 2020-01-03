@@ -1,0 +1,3782 @@
+[
+    {
+        "word": "Hello",
+        "startTime": 600,
+        "endTime": 1200,
+        "group": 0
+    },
+    {
+        "word": "and",
+        "startTime": 1200,
+        "endTime": 1500,
+        "group": 0
+    },
+    {
+        "word": "welcome",
+        "startTime": 1500,
+        "endTime": 1600,
+        "group": 0
+    },
+    {
+        "word": "to",
+        "startTime": 1600,
+        "endTime": 1800,
+        "group": 0
+    },
+    {
+        "word": "weekly",
+        "startTime": 1800,
+        "endTime": 2200,
+        "group": 0
+    },
+    {
+        "word": "devtips.",
+        "startTime": 2200,
+        "endTime": 2600,
+        "group": 0
+    },
+    {
+        "word": "I'm",
+        "startTime": 2600,
+        "endTime": 3600,
+        "group": 0
+    },
+    {
+        "word": "your",
+        "startTime": 3600,
+        "endTime": 3800,
+        "group": 0
+    },
+    {
+        "word": "host",
+        "startTime": 3800,
+        "endTime": 4000,
+        "group": 0
+    },
+    {
+        "word": "Steve",
+        "startTime": 4000,
+        "endTime": 4300,
+        "group": 0
+    },
+    {
+        "word": "Smith",
+        "startTime": 4300,
+        "endTime": 4800,
+        "group": 0
+    },
+    {
+        "word": "har",
+        "startTime": 4800,
+        "endTime": 5600,
+        "group": 0
+    },
+    {
+        "word": "Dallas.",
+        "startTime": 5600,
+        "endTime": 6000,
+        "group": 0
+    },
+    {
+        "word": "This",
+        "startTime": 6000,
+        "endTime": 6900,
+        "group": 0
+    },
+    {
+        "word": "is",
+        "startTime": 6900,
+        "endTime": 7300,
+        "group": 0
+    },
+    {
+        "word": "episode",
+        "startTime": 7300,
+        "endTime": 7700,
+        "group": 0
+    },
+    {
+        "word": "30",
+        "startTime": 7700,
+        "endTime": 8200,
+        "group": 0
+    },
+    {
+        "word": "where",
+        "startTime": 8200,
+        "endTime": 8600,
+        "group": 0
+    },
+    {
+        "word": "I'll",
+        "startTime": 8600,
+        "endTime": 8700,
+        "group": 0
+    },
+    {
+        "word": "be",
+        "startTime": 8700,
+        "endTime": 8900,
+        "group": 0
+    },
+    {
+        "word": "introducing",
+        "startTime": 8900,
+        "endTime": 9200,
+        "group": 0
+    },
+    {
+        "word": "the",
+        "startTime": 9200,
+        "endTime": 9500,
+        "group": 0
+    },
+    {
+        "word": "concept",
+        "startTime": 9500,
+        "endTime": 9700,
+        "group": 0
+    },
+    {
+        "word": "of",
+        "startTime": 9700,
+        "endTime": 10200,
+        "group": 0
+    },
+    {
+        "word": "code",
+        "startTime": 10200,
+        "endTime": 10700,
+        "group": 0
+    },
+    {
+        "word": "smells.",
+        "startTime": 10700,
+        "endTime": 11100,
+        "group": 0
+    },
+    {
+        "word": "Don't",
+        "startTime": 12000,
+        "endTime": 12400,
+        "group": 1
+    },
+    {
+        "word": "forget",
+        "startTime": 12400,
+        "endTime": 12600,
+        "group": 1
+    },
+    {
+        "word": "to",
+        "startTime": 12600,
+        "endTime": 12800,
+        "group": 1
+    },
+    {
+        "word": "follow",
+        "startTime": 12800,
+        "endTime": 12900,
+        "group": 1
+    },
+    {
+        "word": "weekly",
+        "startTime": 12900,
+        "endTime": 13400,
+        "group": 1
+    },
+    {
+        "word": "Dev",
+        "startTime": 13400,
+        "endTime": 13600,
+        "group": 1
+    },
+    {
+        "word": "tips",
+        "startTime": 13600,
+        "endTime": 14000,
+        "group": 1
+    },
+    {
+        "word": "on",
+        "startTime": 14000,
+        "endTime": 14200,
+        "group": 1
+    },
+    {
+        "word": "Twitter",
+        "startTime": 14200,
+        "endTime": 14600,
+        "group": 1
+    },
+    {
+        "word": "as",
+        "startTime": 14600,
+        "endTime": 15300,
+        "group": 1
+    },
+    {
+        "word": "well",
+        "startTime": 15300,
+        "endTime": 15400,
+        "group": 1
+    },
+    {
+        "word": "as",
+        "startTime": 15400,
+        "endTime": 15600,
+        "group": 1
+    },
+    {
+        "word": "in",
+        "startTime": 15600,
+        "endTime": 15600,
+        "group": 1
+    },
+    {
+        "word": "your",
+        "startTime": 15600,
+        "endTime": 15700,
+        "group": 1
+    },
+    {
+        "word": "favorite",
+        "startTime": 15700,
+        "endTime": 16100,
+        "group": 1
+    },
+    {
+        "word": "podcast",
+        "startTime": 16100,
+        "endTime": 16400,
+        "group": 1
+    },
+    {
+        "word": "app.",
+        "startTime": 16400,
+        "endTime": 17100,
+        "group": 1
+    },
+    {
+        "word": "Please",
+        "startTime": 17100,
+        "endTime": 17900,
+        "group": 1
+    },
+    {
+        "word": "leave",
+        "startTime": 17900,
+        "endTime": 18200,
+        "group": 1
+    },
+    {
+        "word": "a",
+        "startTime": 18200,
+        "endTime": 18200,
+        "group": 1
+    },
+    {
+        "word": "review",
+        "startTime": 18200,
+        "endTime": 18600,
+        "group": 1
+    },
+    {
+        "word": "on",
+        "startTime": 18600,
+        "endTime": 18900,
+        "group": 1
+    },
+    {
+        "word": "Twitter",
+        "startTime": 18900,
+        "endTime": 19300,
+        "group": 1
+    },
+    {
+        "word": "or",
+        "startTime": 19300,
+        "endTime": 19500,
+        "group": 1
+    },
+    {
+        "word": "wherever",
+        "startTime": 19500,
+        "endTime": 19700,
+        "group": 1
+    },
+    {
+        "word": "you",
+        "startTime": 19700,
+        "endTime": 19900,
+        "group": 1
+    },
+    {
+        "word": "might",
+        "startTime": 19900,
+        "endTime": 20000,
+        "group": 1
+    },
+    {
+        "word": "be",
+        "startTime": 20000,
+        "endTime": 20100,
+        "group": 1
+    },
+    {
+        "word": "listening",
+        "startTime": 20100,
+        "endTime": 20300,
+        "group": 1
+    },
+    {
+        "word": "to",
+        "startTime": 20300,
+        "endTime": 20600,
+        "group": 1
+    },
+    {
+        "word": "podcast.",
+        "startTime": 20600,
+        "endTime": 21300,
+        "group": 1
+    },
+    {
+        "word": "Thanks",
+        "startTime": 22100,
+        "endTime": 22600,
+        "group": 2
+    },
+    {
+        "word": "user",
+        "startTime": 22600,
+        "endTime": 23000,
+        "group": 2
+    },
+    {
+        "word": "Tom",
+        "startTime": 23000,
+        "endTime": 23400,
+        "group": 2
+    },
+    {
+        "word": "Dev",
+        "startTime": 23400,
+        "endTime": 23700,
+        "group": 2
+    },
+    {
+        "word": "manager",
+        "startTime": 23700,
+        "endTime": 24000,
+        "group": 2
+    },
+    {
+        "word": "UK",
+        "startTime": 24000,
+        "endTime": 24600,
+        "group": 2
+    },
+    {
+        "word": "for",
+        "startTime": 24600,
+        "endTime": 25200,
+        "group": 2
+    },
+    {
+        "word": "your",
+        "startTime": 25200,
+        "endTime": 25400,
+        "group": 2
+    },
+    {
+        "word": "great",
+        "startTime": 25400,
+        "endTime": 25600,
+        "group": 2
+    },
+    {
+        "word": "review",
+        "startTime": 25600,
+        "endTime": 25900,
+        "group": 2
+    },
+    {
+        "word": "on",
+        "startTime": 25900,
+        "endTime": 26200,
+        "group": 2
+    },
+    {
+        "word": "Stitcher",
+        "startTime": 26200,
+        "endTime": 26400,
+        "group": 2
+    },
+    {
+        "word": "this",
+        "startTime": 26400,
+        "endTime": 26700,
+        "group": 2
+    },
+    {
+        "word": "week.",
+        "startTime": 26700,
+        "endTime": 27000,
+        "group": 2
+    },
+    {
+        "word": "Coat",
+        "startTime": 28000,
+        "endTime": 28500,
+        "group": 3
+    },
+    {
+        "word": "smells",
+        "startTime": 28500,
+        "endTime": 29000,
+        "group": 3
+    },
+    {
+        "word": "or",
+        "startTime": 29000,
+        "endTime": 29400,
+        "group": 3
+    },
+    {
+        "word": "bad",
+        "startTime": 29400,
+        "endTime": 29700,
+        "group": 3
+    },
+    {
+        "word": "smells",
+        "startTime": 29700,
+        "endTime": 30100,
+        "group": 3
+    },
+    {
+        "word": "and",
+        "startTime": 30100,
+        "endTime": 30300,
+        "group": 3
+    },
+    {
+        "word": "code",
+        "startTime": 30300,
+        "endTime": 30700,
+        "group": 3
+    },
+    {
+        "word": "are",
+        "startTime": 30700,
+        "endTime": 31200,
+        "group": 3
+    },
+    {
+        "word": "discussed",
+        "startTime": 31200,
+        "endTime": 31700,
+        "group": 3
+    },
+    {
+        "word": "in",
+        "startTime": 31700,
+        "endTime": 31800,
+        "group": 3
+    },
+    {
+        "word": "the",
+        "startTime": 31800,
+        "endTime": 31900,
+        "group": 3
+    },
+    {
+        "word": "book",
+        "startTime": 31900,
+        "endTime": 32100,
+        "group": 3
+    },
+    {
+        "word": "refactoring",
+        "startTime": 32100,
+        "endTime": 32700,
+        "group": 3
+    },
+    {
+        "word": "Martin",
+        "startTime": 32700,
+        "endTime": 33800,
+        "group": 3
+    },
+    {
+        "word": "Fowler",
+        "startTime": 33800,
+        "endTime": 34100,
+        "group": 3
+    },
+    {
+        "word": "and",
+        "startTime": 34100,
+        "endTime": 34500,
+        "group": 3
+    },
+    {
+        "word": "Kent",
+        "startTime": 34500,
+        "endTime": 34800,
+        "group": 3
+    },
+    {
+        "word": "Beck",
+        "startTime": 34800,
+        "endTime": 35200,
+        "group": 3
+    },
+    {
+        "word": "discuss",
+        "startTime": 35200,
+        "endTime": 35700,
+        "group": 3
+    },
+    {
+        "word": "them",
+        "startTime": 35700,
+        "endTime": 36100,
+        "group": 3
+    },
+    {
+        "word": "and",
+        "startTime": 36100,
+        "endTime": 36400,
+        "group": 3
+    },
+    {
+        "word": "how",
+        "startTime": 36400,
+        "endTime": 36600,
+        "group": 3
+    },
+    {
+        "word": "they",
+        "startTime": 36600,
+        "endTime": 36600,
+        "group": 3
+    },
+    {
+        "word": "can",
+        "startTime": 36600,
+        "endTime": 36900,
+        "group": 3
+    },
+    {
+        "word": "be",
+        "startTime": 36900,
+        "endTime": 37000,
+        "group": 3
+    },
+    {
+        "word": "used",
+        "startTime": 37000,
+        "endTime": 37300,
+        "group": 3
+    },
+    {
+        "word": "to",
+        "startTime": 37300,
+        "endTime": 37700,
+        "group": 3
+    },
+    {
+        "word": "identify",
+        "startTime": 37700,
+        "endTime": 37800,
+        "group": 3
+    },
+    {
+        "word": "potential",
+        "startTime": 37800,
+        "endTime": 38700,
+        "group": 3
+    },
+    {
+        "word": "places",
+        "startTime": 38700,
+        "endTime": 39300,
+        "group": 3
+    },
+    {
+        "word": "to",
+        "startTime": 39300,
+        "endTime": 39800,
+        "group": 3
+    },
+    {
+        "word": "refactor",
+        "startTime": 39800,
+        "endTime": 40200,
+        "group": 3
+    },
+    {
+        "word": "your",
+        "startTime": 40200,
+        "endTime": 40500,
+        "group": 3
+    },
+    {
+        "word": "code.",
+        "startTime": 40500,
+        "endTime": 40800,
+        "group": 3
+    },
+    {
+        "word": "I",
+        "startTime": 42300,
+        "endTime": 42700,
+        "group": 4
+    },
+    {
+        "word": "talked",
+        "startTime": 42700,
+        "endTime": 42900,
+        "group": 4
+    },
+    {
+        "word": "to",
+        "startTime": 42900,
+        "endTime": 43000,
+        "group": 4
+    },
+    {
+        "word": "quite",
+        "startTime": 43000,
+        "endTime": 43200,
+        "group": 4
+    },
+    {
+        "word": "a",
+        "startTime": 43200,
+        "endTime": 43300,
+        "group": 4
+    },
+    {
+        "word": "bit",
+        "startTime": 43300,
+        "endTime": 43600,
+        "group": 4
+    },
+    {
+        "word": "about",
+        "startTime": 43600,
+        "endTime": 43900,
+        "group": 4
+    },
+    {
+        "word": "code",
+        "startTime": 43900,
+        "endTime": 44400,
+        "group": 4
+    },
+    {
+        "word": "smells",
+        "startTime": 44400,
+        "endTime": 44800,
+        "group": 4
+    },
+    {
+        "word": "over",
+        "startTime": 44800,
+        "endTime": 45100,
+        "group": 4
+    },
+    {
+        "word": "the",
+        "startTime": 45100,
+        "endTime": 45200,
+        "group": 4
+    },
+    {
+        "word": "course",
+        "startTime": 45200,
+        "endTime": 45400,
+        "group": 4
+    },
+    {
+        "word": "of",
+        "startTime": 45400,
+        "endTime": 45500,
+        "group": 4
+    },
+    {
+        "word": "my",
+        "startTime": 45500,
+        "endTime": 45700,
+        "group": 4
+    },
+    {
+        "word": "career",
+        "startTime": 45700,
+        "endTime": 45900,
+        "group": 4
+    },
+    {
+        "word": "Myra",
+        "startTime": 45900,
+        "endTime": 47400,
+        "group": 4
+    },
+    {
+        "word": "factoring",
+        "startTime": 47400,
+        "endTime": 47900,
+        "group": 4
+    },
+    {
+        "word": "fundamentals.",
+        "startTime": 47900,
+        "endTime": 48600,
+        "group": 4
+    },
+    {
+        "word": "And",
+        "startTime": 48600,
+        "endTime": 48900,
+        "group": 4
+    },
+    {
+        "word": "as",
+        "startTime": 48900,
+        "endTime": 49100,
+        "group": 4
+    },
+    {
+        "word": "your",
+        "startTime": 49100,
+        "endTime": 49300,
+        "group": 4
+    },
+    {
+        "word": "Vectren",
+        "startTime": 49300,
+        "endTime": 49700,
+        "group": 4
+    },
+    {
+        "word": "courses",
+        "startTime": 49700,
+        "endTime": 50200,
+        "group": 4
+    },
+    {
+        "word": "on",
+        "startTime": 50200,
+        "endTime": 50400,
+        "group": 4
+    },
+    {
+        "word": "pluralsight",
+        "startTime": 50400,
+        "endTime": 51000,
+        "group": 4
+    },
+    {
+        "word": "both",
+        "startTime": 51000,
+        "endTime": 51600,
+        "group": 4
+    },
+    {
+        "word": "discuss",
+        "startTime": 51600,
+        "endTime": 52000,
+        "group": 4
+    },
+    {
+        "word": "the",
+        "startTime": 52000,
+        "endTime": 52200,
+        "group": 4
+    },
+    {
+        "word": "topic",
+        "startTime": 52200,
+        "endTime": 52300,
+        "group": 4
+    },
+    {
+        "word": "with",
+        "startTime": 52300,
+        "endTime": 53000,
+        "group": 4
+    },
+    {
+        "word": "the",
+        "startTime": 53000,
+        "endTime": 53100,
+        "group": 4
+    },
+    {
+        "word": "former",
+        "startTime": 53100,
+        "endTime": 53500,
+        "group": 4
+    },
+    {
+        "word": "going",
+        "startTime": 53500,
+        "endTime": 53700,
+        "group": 4
+    },
+    {
+        "word": "into",
+        "startTime": 53700,
+        "endTime": 53900,
+        "group": 4
+    },
+    {
+        "word": "great",
+        "startTime": 53900,
+        "endTime": 54200,
+        "group": 4
+    },
+    {
+        "word": "depth",
+        "startTime": 54200,
+        "endTime": 54600,
+        "group": 4
+    },
+    {
+        "word": "and",
+        "startTime": 54600,
+        "endTime": 54800,
+        "group": 4
+    },
+    {
+        "word": "covering",
+        "startTime": 54800,
+        "endTime": 55200,
+        "group": 4
+    },
+    {
+        "word": "literally",
+        "startTime": 55200,
+        "endTime": 55800,
+        "group": 4
+    },
+    {
+        "word": "dozens",
+        "startTime": 55800,
+        "endTime": 56200,
+        "group": 4
+    },
+    {
+        "word": "of",
+        "startTime": 56200,
+        "endTime": 56300,
+        "group": 4
+    },
+    {
+        "word": "different",
+        "startTime": 56300,
+        "endTime": 56500,
+        "group": 4
+    },
+    {
+        "word": "code",
+        "startTime": 56500,
+        "endTime": 56900,
+        "group": 4
+    },
+    {
+        "word": "smells",
+        "startTime": 56900,
+        "endTime": 57300,
+        "group": 4
+    },
+    {
+        "word": "that",
+        "startTime": 57300,
+        "endTime": 58300,
+        "group": 4
+    },
+    {
+        "word": "course",
+        "startTime": 58300,
+        "endTime": 58700,
+        "group": 4
+    },
+    {
+        "word": "is",
+        "startTime": 58700,
+        "endTime": 58800,
+        "group": 4
+    },
+    {
+        "word": "over",
+        "startTime": 58800,
+        "endTime": 59300,
+        "group": 4
+    },
+    {
+        "word": "8",
+        "startTime": 59300,
+        "endTime": 59500,
+        "group": 4
+    },
+    {
+        "word": "hours",
+        "startTime": 59500,
+        "endTime": 59600,
+        "group": 4
+    },
+    {
+        "word": "long,",
+        "startTime": 59600,
+        "endTime": 60100,
+        "group": 4
+    },
+    {
+        "word": "but",
+        "startTime": 60100,
+        "endTime": 60600,
+        "group": 4
+    },
+    {
+        "word": "it",
+        "startTime": 60600,
+        "endTime": 60600,
+        "group": 4
+    },
+    {
+        "word": "not",
+        "startTime": 60600,
+        "endTime": 60800,
+        "group": 4
+    },
+    {
+        "word": "only",
+        "startTime": 60800,
+        "endTime": 60900,
+        "group": 4
+    },
+    {
+        "word": "demonstrates",
+        "startTime": 60900,
+        "endTime": 61700,
+        "group": 4
+    },
+    {
+        "word": "tons",
+        "startTime": 61700,
+        "endTime": 62000,
+        "group": 4
+    },
+    {
+        "word": "of",
+        "startTime": 62000,
+        "endTime": 62100,
+        "group": 4
+    },
+    {
+        "word": "code",
+        "startTime": 62100,
+        "endTime": 62400,
+        "group": 4
+    },
+    {
+        "word": "smells",
+        "startTime": 62400,
+        "endTime": 62700,
+        "group": 4
+    },
+    {
+        "word": "but",
+        "startTime": 62700,
+        "endTime": 63200,
+        "group": 4
+    },
+    {
+        "word": "also",
+        "startTime": 63200,
+        "endTime": 63300,
+        "group": 4
+    },
+    {
+        "word": "shows",
+        "startTime": 63300,
+        "endTime": 63900,
+        "group": 4
+    },
+    {
+        "word": "how",
+        "startTime": 63900,
+        "endTime": 64100,
+        "group": 4
+    },
+    {
+        "word": "to",
+        "startTime": 64100,
+        "endTime": 64200,
+        "group": 4
+    },
+    {
+        "word": "refactor",
+        "startTime": 64200,
+        "endTime": 64600,
+        "group": 4
+    },
+    {
+        "word": "to",
+        "startTime": 64600,
+        "endTime": 65300,
+        "group": 4
+    },
+    {
+        "word": "improve",
+        "startTime": 65300,
+        "endTime": 65600,
+        "group": 4
+    },
+    {
+        "word": "your",
+        "startTime": 65600,
+        "endTime": 65700,
+        "group": 4
+    },
+    {
+        "word": "code",
+        "startTime": 65700,
+        "endTime": 66100,
+        "group": 4
+    },
+    {
+        "word": "in",
+        "startTime": 66100,
+        "endTime": 66600,
+        "group": 4
+    },
+    {
+        "word": "response",
+        "startTime": 66600,
+        "endTime": 67000,
+        "group": 4
+    },
+    {
+        "word": "to",
+        "startTime": 67000,
+        "endTime": 67100,
+        "group": 4
+    },
+    {
+        "word": "each",
+        "startTime": 67100,
+        "endTime": 67200,
+        "group": 4
+    },
+    {
+        "word": "of",
+        "startTime": 67200,
+        "endTime": 67400,
+        "group": 4
+    },
+    {
+        "word": "them.",
+        "startTime": 67400,
+        "endTime": 67600,
+        "group": 4
+    },
+    {
+        "word": "It's",
+        "startTime": 68700,
+        "endTime": 69200,
+        "group": 5
+    },
+    {
+        "word": "important",
+        "startTime": 69200,
+        "endTime": 69300,
+        "group": 5
+    },
+    {
+        "word": "to",
+        "startTime": 69300,
+        "endTime": 69600,
+        "group": 5
+    },
+    {
+        "word": "note",
+        "startTime": 69600,
+        "endTime": 69800,
+        "group": 5
+    },
+    {
+        "word": "that",
+        "startTime": 69800,
+        "endTime": 69900,
+        "group": 5
+    },
+    {
+        "word": "code",
+        "startTime": 69900,
+        "endTime": 70200,
+        "group": 5
+    },
+    {
+        "word": "smells",
+        "startTime": 70200,
+        "endTime": 70700,
+        "group": 5
+    },
+    {
+        "word": "represent",
+        "startTime": 70700,
+        "endTime": 71600,
+        "group": 5
+    },
+    {
+        "word": "things",
+        "startTime": 71600,
+        "endTime": 71700,
+        "group": 5
+    },
+    {
+        "word": "in",
+        "startTime": 71700,
+        "endTime": 72000,
+        "group": 5
+    },
+    {
+        "word": "your",
+        "startTime": 72000,
+        "endTime": 72100,
+        "group": 5
+    },
+    {
+        "word": "code",
+        "startTime": 72100,
+        "endTime": 72300,
+        "group": 5
+    },
+    {
+        "word": "that",
+        "startTime": 72300,
+        "endTime": 72800,
+        "group": 5
+    },
+    {
+        "word": "are",
+        "startTime": 72800,
+        "endTime": 72900,
+        "group": 5
+    },
+    {
+        "word": "just",
+        "startTime": 72900,
+        "endTime": 73100,
+        "group": 5
+    },
+    {
+        "word": "potentially",
+        "startTime": 73100,
+        "endTime": 73900,
+        "group": 5
+    },
+    {
+        "word": "bad.",
+        "startTime": 73900,
+        "endTime": 74200,
+        "group": 5
+    },
+    {
+        "word": "They",
+        "startTime": 74200,
+        "endTime": 74600,
+        "group": 5
+    },
+    {
+        "word": "aren't",
+        "startTime": 74600,
+        "endTime": 74700,
+        "group": 5
+    },
+    {
+        "word": "always",
+        "startTime": 74700,
+        "endTime": 75100,
+        "group": 5
+    },
+    {
+        "word": "bad.",
+        "startTime": 75100,
+        "endTime": 75600,
+        "group": 5
+    },
+    {
+        "word": "They",
+        "startTime": 75600,
+        "endTime": 76400,
+        "group": 5
+    },
+    {
+        "word": "should",
+        "startTime": 76400,
+        "endTime": 76500,
+        "group": 5
+    },
+    {
+        "word": "catch",
+        "startTime": 76500,
+        "endTime": 76800,
+        "group": 5
+    },
+    {
+        "word": "your",
+        "startTime": 76800,
+        "endTime": 77000,
+        "group": 5
+    },
+    {
+        "word": "attention",
+        "startTime": 77000,
+        "endTime": 77000,
+        "group": 5
+    },
+    {
+        "word": "and",
+        "startTime": 77000,
+        "endTime": 77900,
+        "group": 5
+    },
+    {
+        "word": "you",
+        "startTime": 77900,
+        "endTime": 78000,
+        "group": 5
+    },
+    {
+        "word": "should",
+        "startTime": 78000,
+        "endTime": 78100,
+        "group": 5
+    },
+    {
+        "word": "think",
+        "startTime": 78100,
+        "endTime": 78300,
+        "group": 5
+    },
+    {
+        "word": "about",
+        "startTime": 78300,
+        "endTime": 78400,
+        "group": 5
+    },
+    {
+        "word": "whether",
+        "startTime": 78400,
+        "endTime": 78800,
+        "group": 5
+    },
+    {
+        "word": "in",
+        "startTime": 78800,
+        "endTime": 79400,
+        "group": 5
+    },
+    {
+        "word": "context",
+        "startTime": 79400,
+        "endTime": 80100,
+        "group": 5
+    },
+    {
+        "word": "the",
+        "startTime": 80100,
+        "endTime": 80400,
+        "group": 5
+    },
+    {
+        "word": "smell",
+        "startTime": 80400,
+        "endTime": 80900,
+        "group": 5
+    },
+    {
+        "word": "in",
+        "startTime": 80900,
+        "endTime": 81000,
+        "group": 5
+    },
+    {
+        "word": "question",
+        "startTime": 81000,
+        "endTime": 81500,
+        "group": 5
+    },
+    {
+        "word": "is",
+        "startTime": 81500,
+        "endTime": 81600,
+        "group": 5
+    },
+    {
+        "word": "acceptable",
+        "startTime": 81600,
+        "endTime": 82300,
+        "group": 5
+    },
+    {
+        "word": "or",
+        "startTime": 82300,
+        "endTime": 82500,
+        "group": 5
+    },
+    {
+        "word": "not.",
+        "startTime": 82500,
+        "endTime": 82600,
+        "group": 5
+    },
+    {
+        "word": "Sometimes",
+        "startTime": 82600,
+        "endTime": 83800,
+        "group": 5
+    },
+    {
+        "word": "it's",
+        "startTime": 83800,
+        "endTime": 84300,
+        "group": 5
+    },
+    {
+        "word": "perfectly",
+        "startTime": 84300,
+        "endTime": 84700,
+        "group": 5
+    },
+    {
+        "word": "fine",
+        "startTime": 84700,
+        "endTime": 84800,
+        "group": 5
+    },
+    {
+        "word": "or",
+        "startTime": 84800,
+        "endTime": 85500,
+        "group": 5
+    },
+    {
+        "word": "it's",
+        "startTime": 85500,
+        "endTime": 85600,
+        "group": 5
+    },
+    {
+        "word": "not",
+        "startTime": 85600,
+        "endTime": 85800,
+        "group": 5
+    },
+    {
+        "word": "worth",
+        "startTime": 85800,
+        "endTime": 85900,
+        "group": 5
+    },
+    {
+        "word": "the",
+        "startTime": 85900,
+        "endTime": 86100,
+        "group": 5
+    },
+    {
+        "word": "effort",
+        "startTime": 86100,
+        "endTime": 86200,
+        "group": 5
+    },
+    {
+        "word": "to",
+        "startTime": 86200,
+        "endTime": 86500,
+        "group": 5
+    },
+    {
+        "word": "refactor",
+        "startTime": 86500,
+        "endTime": 86900,
+        "group": 5
+    },
+    {
+        "word": "to",
+        "startTime": 86900,
+        "endTime": 87200,
+        "group": 5
+    },
+    {
+        "word": "a",
+        "startTime": 87200,
+        "endTime": 87300,
+        "group": 5
+    },
+    {
+        "word": "different",
+        "startTime": 87300,
+        "endTime": 87600,
+        "group": 5
+    },
+    {
+        "word": "design.",
+        "startTime": 87600,
+        "endTime": 87800,
+        "group": 5
+    },
+    {
+        "word": "If",
+        "startTime": 89100,
+        "endTime": 89500,
+        "group": 6
+    },
+    {
+        "word": "you've",
+        "startTime": 89500,
+        "endTime": 89600,
+        "group": 6
+    },
+    {
+        "word": "never",
+        "startTime": 89600,
+        "endTime": 89800,
+        "group": 6
+    },
+    {
+        "word": "heard",
+        "startTime": 89800,
+        "endTime": 90000,
+        "group": 6
+    },
+    {
+        "word": "of",
+        "startTime": 90000,
+        "endTime": 90200,
+        "group": 6
+    },
+    {
+        "word": "the",
+        "startTime": 90200,
+        "endTime": 90300,
+        "group": 6
+    },
+    {
+        "word": "term",
+        "startTime": 90300,
+        "endTime": 90400,
+        "group": 6
+    },
+    {
+        "word": "code",
+        "startTime": 90400,
+        "endTime": 91000,
+        "group": 6
+    },
+    {
+        "word": "smell",
+        "startTime": 91000,
+        "endTime": 91400,
+        "group": 6
+    },
+    {
+        "word": "I",
+        "startTime": 91400,
+        "endTime": 91800,
+        "group": 6
+    },
+    {
+        "word": "encourage",
+        "startTime": 91800,
+        "endTime": 92100,
+        "group": 6
+    },
+    {
+        "word": "you",
+        "startTime": 92100,
+        "endTime": 92200,
+        "group": 6
+    },
+    {
+        "word": "to",
+        "startTime": 92200,
+        "endTime": 92300,
+        "group": 6
+    },
+    {
+        "word": "look",
+        "startTime": 92300,
+        "endTime": 92400,
+        "group": 6
+    },
+    {
+        "word": "into",
+        "startTime": 92400,
+        "endTime": 92700,
+        "group": 6
+    },
+    {
+        "word": "it.",
+        "startTime": 92700,
+        "endTime": 92900,
+        "group": 6
+    },
+    {
+        "word": "There's",
+        "startTime": 92900,
+        "endTime": 93500,
+        "group": 6
+    },
+    {
+        "word": "some",
+        "startTime": 93500,
+        "endTime": 93700,
+        "group": 6
+    },
+    {
+        "word": "links",
+        "startTime": 93700,
+        "endTime": 94000,
+        "group": 6
+    },
+    {
+        "word": "in",
+        "startTime": 94000,
+        "endTime": 94100,
+        "group": 6
+    },
+    {
+        "word": "the",
+        "startTime": 94100,
+        "endTime": 94200,
+        "group": 6
+    },
+    {
+        "word": "show",
+        "startTime": 94200,
+        "endTime": 94400,
+        "group": 6
+    },
+    {
+        "word": "notes",
+        "startTime": 94400,
+        "endTime": 94600,
+        "group": 6
+    },
+    {
+        "word": "for",
+        "startTime": 94600,
+        "endTime": 94800,
+        "group": 6
+    },
+    {
+        "word": "this",
+        "startTime": 94800,
+        "endTime": 94900,
+        "group": 6
+    },
+    {
+        "word": "episode",
+        "startTime": 94900,
+        "endTime": 95100,
+        "group": 6
+    },
+    {
+        "word": "one",
+        "startTime": 95100,
+        "endTime": 96400,
+        "group": 6
+    },
+    {
+        "word": "benefit",
+        "startTime": 96400,
+        "endTime": 96700,
+        "group": 6
+    },
+    {
+        "word": "of",
+        "startTime": 96700,
+        "endTime": 96900,
+        "group": 6
+    },
+    {
+        "word": "learning",
+        "startTime": 96900,
+        "endTime": 97200,
+        "group": 6
+    },
+    {
+        "word": "about",
+        "startTime": 97200,
+        "endTime": 97500,
+        "group": 6
+    },
+    {
+        "word": "code",
+        "startTime": 97500,
+        "endTime": 97900,
+        "group": 6
+    },
+    {
+        "word": "smells",
+        "startTime": 97900,
+        "endTime": 98400,
+        "group": 6
+    },
+    {
+        "word": "mirrors",
+        "startTime": 98400,
+        "endTime": 99100,
+        "group": 6
+    },
+    {
+        "word": "a",
+        "startTime": 99100,
+        "endTime": 99300,
+        "group": 6
+    },
+    {
+        "word": "benefit",
+        "startTime": 99300,
+        "endTime": 99800,
+        "group": 6
+    },
+    {
+        "word": "of",
+        "startTime": 99800,
+        "endTime": 99800,
+        "group": 6
+    },
+    {
+        "word": "learning",
+        "startTime": 99800,
+        "endTime": 100000,
+        "group": 6
+    },
+    {
+        "word": "about",
+        "startTime": 100000,
+        "endTime": 100300,
+        "group": 6
+    },
+    {
+        "word": "design",
+        "startTime": 100300,
+        "endTime": 100800,
+        "group": 6
+    },
+    {
+        "word": "pattern",
+        "startTime": 100800,
+        "endTime": 101000,
+        "group": 6
+    },
+    {
+        "word": "which",
+        "startTime": 101000,
+        "endTime": 101800,
+        "group": 6
+    },
+    {
+        "word": "is",
+        "startTime": 101800,
+        "endTime": 101900,
+        "group": 6
+    },
+    {
+        "word": "that",
+        "startTime": 101900,
+        "endTime": 102100,
+        "group": 6
+    },
+    {
+        "word": "these",
+        "startTime": 102100,
+        "endTime": 102300,
+        "group": 6
+    },
+    {
+        "word": "named",
+        "startTime": 102300,
+        "endTime": 102700,
+        "group": 6
+    },
+    {
+        "word": "smells",
+        "startTime": 102700,
+        "endTime": 103300,
+        "group": 6
+    },
+    {
+        "word": "allow",
+        "startTime": 103300,
+        "endTime": 103600,
+        "group": 6
+    },
+    {
+        "word": "you",
+        "startTime": 103600,
+        "endTime": 103700,
+        "group": 6
+    },
+    {
+        "word": "to",
+        "startTime": 103700,
+        "endTime": 103900,
+        "group": 6
+    },
+    {
+        "word": "identify",
+        "startTime": 103900,
+        "endTime": 104000,
+        "group": 6
+    },
+    {
+        "word": "and",
+        "startTime": 104000,
+        "endTime": 105000,
+        "group": 6
+    },
+    {
+        "word": "communicate",
+        "startTime": 105000,
+        "endTime": 105500,
+        "group": 6
+    },
+    {
+        "word": "concept",
+        "startTime": 105500,
+        "endTime": 106100,
+        "group": 6
+    },
+    {
+        "word": "quickly",
+        "startTime": 106100,
+        "endTime": 106800,
+        "group": 6
+    },
+    {
+        "word": "with",
+        "startTime": 106800,
+        "endTime": 107100,
+        "group": 6
+    },
+    {
+        "word": "other",
+        "startTime": 107100,
+        "endTime": 107400,
+        "group": 6
+    },
+    {
+        "word": "Developers.",
+        "startTime": 107400,
+        "endTime": 107900,
+        "group": 6
+    },
+    {
+        "word": "For",
+        "startTime": 108900,
+        "endTime": 109300,
+        "group": 7
+    },
+    {
+        "word": "example,",
+        "startTime": 109300,
+        "endTime": 109800,
+        "group": 7
+    },
+    {
+        "word": "if",
+        "startTime": 109800,
+        "endTime": 110200,
+        "group": 7
+    },
+    {
+        "word": "you",
+        "startTime": 110200,
+        "endTime": 110300,
+        "group": 7
+    },
+    {
+        "word": "are",
+        "startTime": 110300,
+        "endTime": 110400,
+        "group": 7
+    },
+    {
+        "word": "discussing",
+        "startTime": 110400,
+        "endTime": 110900,
+        "group": 7
+    },
+    {
+        "word": "some",
+        "startTime": 110900,
+        "endTime": 111100,
+        "group": 7
+    },
+    {
+        "word": "code",
+        "startTime": 111100,
+        "endTime": 111500,
+        "group": 7
+    },
+    {
+        "word": "and",
+        "startTime": 111500,
+        "endTime": 111700,
+        "group": 7
+    },
+    {
+        "word": "mention",
+        "startTime": 111700,
+        "endTime": 112000,
+        "group": 7
+    },
+    {
+        "word": "it",
+        "startTime": 112000,
+        "endTime": 112100,
+        "group": 7
+    },
+    {
+        "word": "seems",
+        "startTime": 112100,
+        "endTime": 112400,
+        "group": 7
+    },
+    {
+        "word": "to",
+        "startTime": 112400,
+        "endTime": 112500,
+        "group": 7
+    },
+    {
+        "word": "have",
+        "startTime": 112500,
+        "endTime": 112800,
+        "group": 7
+    },
+    {
+        "word": "primitive",
+        "startTime": 112800,
+        "endTime": 113300,
+        "group": 7
+    },
+    {
+        "word": "Obsession",
+        "startTime": 113300,
+        "endTime": 114200,
+        "group": 7
+    },
+    {
+        "word": "that",
+        "startTime": 114200,
+        "endTime": 114900,
+        "group": 7
+    },
+    {
+        "word": "term",
+        "startTime": 114900,
+        "endTime": 115300,
+        "group": 7
+    },
+    {
+        "word": "refers",
+        "startTime": 115300,
+        "endTime": 115900,
+        "group": 7
+    },
+    {
+        "word": "to",
+        "startTime": 115900,
+        "endTime": 115900,
+        "group": 7
+    },
+    {
+        "word": "a",
+        "startTime": 115900,
+        "endTime": 116000,
+        "group": 7
+    },
+    {
+        "word": "specific",
+        "startTime": 116000,
+        "endTime": 116200,
+        "group": 7
+    },
+    {
+        "word": "code",
+        "startTime": 116200,
+        "endTime": 116800,
+        "group": 7
+    },
+    {
+        "word": "smell",
+        "startTime": 116800,
+        "endTime": 117200,
+        "group": 7
+    },
+    {
+        "word": "which",
+        "startTime": 117200,
+        "endTime": 117900,
+        "group": 7
+    },
+    {
+        "word": "is",
+        "startTime": 117900,
+        "endTime": 118000,
+        "group": 7
+    },
+    {
+        "word": "well-documented",
+        "startTime": 118000,
+        "endTime": 118600,
+        "group": 7
+    },
+    {
+        "word": "and",
+        "startTime": 118600,
+        "endTime": 119000,
+        "group": 7
+    },
+    {
+        "word": "which",
+        "startTime": 119000,
+        "endTime": 119200,
+        "group": 7
+    },
+    {
+        "word": "has",
+        "startTime": 119200,
+        "endTime": 119400,
+        "group": 7
+    },
+    {
+        "word": "certain",
+        "startTime": 119400,
+        "endTime": 119700,
+        "group": 7
+    },
+    {
+        "word": "known",
+        "startTime": 119700,
+        "endTime": 120000,
+        "group": 7
+    },
+    {
+        "word": "refactoring",
+        "startTime": 120000,
+        "endTime": 120600,
+        "group": 7
+    },
+    {
+        "word": "approaches.",
+        "startTime": 120600,
+        "endTime": 121200,
+        "group": 7
+    },
+    {
+        "word": "But",
+        "startTime": 122000,
+        "endTime": 122400,
+        "group": 8
+    },
+    {
+        "word": "using",
+        "startTime": 122400,
+        "endTime": 122700,
+        "group": 8
+    },
+    {
+        "word": "this",
+        "startTime": 122700,
+        "endTime": 122900,
+        "group": 8
+    },
+    {
+        "word": "specific",
+        "startTime": 122900,
+        "endTime": 123400,
+        "group": 8
+    },
+    {
+        "word": "term,",
+        "startTime": 123400,
+        "endTime": 123700,
+        "group": 8
+    },
+    {
+        "word": "you",
+        "startTime": 123700,
+        "endTime": 124300,
+        "group": 8
+    },
+    {
+        "word": "can",
+        "startTime": 124300,
+        "endTime": 124400,
+        "group": 8
+    },
+    {
+        "word": "be",
+        "startTime": 124400,
+        "endTime": 124600,
+        "group": 8
+    },
+    {
+        "word": "a",
+        "startTime": 124600,
+        "endTime": 124600,
+        "group": 8
+    },
+    {
+        "word": "lot",
+        "startTime": 124600,
+        "endTime": 124800,
+        "group": 8
+    },
+    {
+        "word": "of",
+        "startTime": 124800,
+        "endTime": 124900,
+        "group": 8
+    },
+    {
+        "word": "information",
+        "startTime": 124900,
+        "endTime": 125100,
+        "group": 8
+    },
+    {
+        "word": "in",
+        "startTime": 125100,
+        "endTime": 125600,
+        "group": 8
+    },
+    {
+        "word": "Just",
+        "startTime": 125600,
+        "endTime": 125900,
+        "group": 8
+    },
+    {
+        "word": "Two",
+        "startTime": 125900,
+        "endTime": 126200,
+        "group": 8
+    },
+    {
+        "word": "Words",
+        "startTime": 126200,
+        "endTime": 126400,
+        "group": 8
+    },
+    {
+        "word": "that",
+        "startTime": 126400,
+        "endTime": 127000,
+        "group": 8
+    },
+    {
+        "word": "otherwise",
+        "startTime": 127000,
+        "endTime": 127400,
+        "group": 8
+    },
+    {
+        "word": "might",
+        "startTime": 127400,
+        "endTime": 127700,
+        "group": 8
+    },
+    {
+        "word": "have",
+        "startTime": 127700,
+        "endTime": 127900,
+        "group": 8
+    },
+    {
+        "word": "required",
+        "startTime": 127900,
+        "endTime": 128500,
+        "group": 8
+    },
+    {
+        "word": "a",
+        "startTime": 128500,
+        "endTime": 128500,
+        "group": 8
+    },
+    {
+        "word": "great",
+        "startTime": 128500,
+        "endTime": 128700,
+        "group": 8
+    },
+    {
+        "word": "deal",
+        "startTime": 128700,
+        "endTime": 129000,
+        "group": 8
+    },
+    {
+        "word": "more",
+        "startTime": 129000,
+        "endTime": 129200,
+        "group": 8
+    },
+    {
+        "word": "explanation.",
+        "startTime": 129200,
+        "endTime": 130000,
+        "group": 8
+    },
+    {
+        "word": "Of",
+        "startTime": 130000,
+        "endTime": 131100,
+        "group": 8
+    },
+    {
+        "word": "course,",
+        "startTime": 131100,
+        "endTime": 131400,
+        "group": 8
+    },
+    {
+        "word": "this",
+        "startTime": 131400,
+        "endTime": 131500,
+        "group": 8
+    },
+    {
+        "word": "higher",
+        "startTime": 131500,
+        "endTime": 131800,
+        "group": 8
+    },
+    {
+        "word": "level",
+        "startTime": 131800,
+        "endTime": 132100,
+        "group": 8
+    },
+    {
+        "word": "of",
+        "startTime": 132100,
+        "endTime": 132200,
+        "group": 8
+    },
+    {
+        "word": "communication",
+        "startTime": 132200,
+        "endTime": 132400,
+        "group": 8
+    },
+    {
+        "word": "requires",
+        "startTime": 132400,
+        "endTime": 133400,
+        "group": 8
+    },
+    {
+        "word": "that",
+        "startTime": 133400,
+        "endTime": 133900,
+        "group": 8
+    },
+    {
+        "word": "both",
+        "startTime": 133900,
+        "endTime": 134200,
+        "group": 8
+    },
+    {
+        "word": "parties",
+        "startTime": 134200,
+        "endTime": 134400,
+        "group": 8
+    },
+    {
+        "word": "involved",
+        "startTime": 134400,
+        "endTime": 135300,
+        "group": 8
+    },
+    {
+        "word": "understand",
+        "startTime": 135300,
+        "endTime": 135800,
+        "group": 8
+    },
+    {
+        "word": "these",
+        "startTime": 135800,
+        "endTime": 136000,
+        "group": 8
+    },
+    {
+        "word": "terms",
+        "startTime": 136000,
+        "endTime": 136500,
+        "group": 8
+    },
+    {
+        "word": "they",
+        "startTime": 138000,
+        "endTime": 138400,
+        "group": 9
+    },
+    {
+        "word": "can",
+        "startTime": 138400,
+        "endTime": 138500,
+        "group": 9
+    },
+    {
+        "word": "be",
+        "startTime": 138500,
+        "endTime": 138600,
+        "group": 9
+    },
+    {
+        "word": "useful",
+        "startTime": 138600,
+        "endTime": 138800,
+        "group": 9
+    },
+    {
+        "word": "as",
+        "startTime": 138800,
+        "endTime": 139200,
+        "group": 9
+    },
+    {
+        "word": "well",
+        "startTime": 139200,
+        "endTime": 139400,
+        "group": 9
+    },
+    {
+        "word": "to",
+        "startTime": 139400,
+        "endTime": 139500,
+        "group": 9
+    },
+    {
+        "word": "learn",
+        "startTime": 139500,
+        "endTime": 139600,
+        "group": 9
+    },
+    {
+        "word": "about",
+        "startTime": 139600,
+        "endTime": 139800,
+        "group": 9
+    },
+    {
+        "word": "different",
+        "startTime": 139800,
+        "endTime": 140000,
+        "group": 9
+    },
+    {
+        "word": "categories",
+        "startTime": 140000,
+        "endTime": 140800,
+        "group": 9
+    },
+    {
+        "word": "of",
+        "startTime": 140800,
+        "endTime": 140900,
+        "group": 9
+    },
+    {
+        "word": "code",
+        "startTime": 140900,
+        "endTime": 141200,
+        "group": 9
+    },
+    {
+        "word": "smells",
+        "startTime": 141200,
+        "endTime": 141600,
+        "group": 9
+    },
+    {
+        "word": "these",
+        "startTime": 141600,
+        "endTime": 142500,
+        "group": 9
+    },
+    {
+        "word": "categories",
+        "startTime": 142500,
+        "endTime": 142900,
+        "group": 9
+    },
+    {
+        "word": "include",
+        "startTime": 142900,
+        "endTime": 143600,
+        "group": 9
+    },
+    {
+        "word": "things",
+        "startTime": 143600,
+        "endTime": 143900,
+        "group": 9
+    },
+    {
+        "word": "like",
+        "startTime": 143900,
+        "endTime": 144000,
+        "group": 9
+    },
+    {
+        "word": "bloaters",
+        "startTime": 144000,
+        "endTime": 144700,
+        "group": 9
+    },
+    {
+        "word": "obvious",
+        "startTime": 144700,
+        "endTime": 145500,
+        "group": 9
+    },
+    {
+        "word": "Gators",
+        "startTime": 145500,
+        "endTime": 145900,
+        "group": 9
+    },
+    {
+        "word": "and",
+        "startTime": 145900,
+        "endTime": 146300,
+        "group": 9
+    },
+    {
+        "word": "couplers",
+        "startTime": 146300,
+        "endTime": 146800,
+        "group": 9
+    },
+    {
+        "word": "as",
+        "startTime": 146800,
+        "endTime": 147300,
+        "group": 9
+    },
+    {
+        "word": "well",
+        "startTime": 147300,
+        "endTime": 147500,
+        "group": 9
+    },
+    {
+        "word": "as",
+        "startTime": 147500,
+        "endTime": 147600,
+        "group": 9
+    },
+    {
+        "word": "smells",
+        "startTime": 147600,
+        "endTime": 148100,
+        "group": 9
+    },
+    {
+        "word": "specific",
+        "startTime": 148100,
+        "endTime": 148500,
+        "group": 9
+    },
+    {
+        "word": "to",
+        "startTime": 148500,
+        "endTime": 148800,
+        "group": 9
+    },
+    {
+        "word": "certain",
+        "startTime": 148800,
+        "endTime": 149000,
+        "group": 9
+    },
+    {
+        "word": "scenarios",
+        "startTime": 149000,
+        "endTime": 149500,
+        "group": 9
+    },
+    {
+        "word": "or",
+        "startTime": 149500,
+        "endTime": 150100,
+        "group": 9
+    },
+    {
+        "word": "kinds",
+        "startTime": 150100,
+        "endTime": 150500,
+        "group": 9
+    },
+    {
+        "word": "of",
+        "startTime": 150500,
+        "endTime": 150600,
+        "group": 9
+    },
+    {
+        "word": "code",
+        "startTime": 150600,
+        "endTime": 151000,
+        "group": 9
+    },
+    {
+        "word": "like",
+        "startTime": 151000,
+        "endTime": 151700,
+        "group": 9
+    },
+    {
+        "word": "testing",
+        "startTime": 151700,
+        "endTime": 152200,
+        "group": 9
+    },
+    {
+        "word": "smells.",
+        "startTime": 152200,
+        "endTime": 152700,
+        "group": 9
+    },
+    {
+        "word": "these",
+        "startTime": 153600,
+        "endTime": 154000,
+        "group": 10
+    },
+    {
+        "word": "categories",
+        "startTime": 154000,
+        "endTime": 154300,
+        "group": 10
+    },
+    {
+        "word": "help",
+        "startTime": 154300,
+        "endTime": 154700,
+        "group": 10
+    },
+    {
+        "word": "as",
+        "startTime": 154700,
+        "endTime": 155000,
+        "group": 10
+    },
+    {
+        "word": "you're",
+        "startTime": 155000,
+        "endTime": 155100,
+        "group": 10
+    },
+    {
+        "word": "learning",
+        "startTime": 155100,
+        "endTime": 155500,
+        "group": 10
+    },
+    {
+        "word": "about",
+        "startTime": 155500,
+        "endTime": 155600,
+        "group": 10
+    },
+    {
+        "word": "code",
+        "startTime": 155600,
+        "endTime": 155900,
+        "group": 10
+    },
+    {
+        "word": "smells",
+        "startTime": 155900,
+        "endTime": 156300,
+        "group": 10
+    },
+    {
+        "word": "because",
+        "startTime": 156300,
+        "endTime": 156900,
+        "group": 10
+    },
+    {
+        "word": "they",
+        "startTime": 156900,
+        "endTime": 157300,
+        "group": 10
+    },
+    {
+        "word": "let",
+        "startTime": 157300,
+        "endTime": 157400,
+        "group": 10
+    },
+    {
+        "word": "you",
+        "startTime": 157400,
+        "endTime": 157500,
+        "group": 10
+    },
+    {
+        "word": "see",
+        "startTime": 157500,
+        "endTime": 157500,
+        "group": 10
+    },
+    {
+        "word": "a",
+        "startTime": 157500,
+        "endTime": 157800,
+        "group": 10
+    },
+    {
+        "word": "variety",
+        "startTime": 157800,
+        "endTime": 158000,
+        "group": 10
+    },
+    {
+        "word": "of",
+        "startTime": 158000,
+        "endTime": 158400,
+        "group": 10
+    },
+    {
+        "word": "smells",
+        "startTime": 158400,
+        "endTime": 159000,
+        "group": 10
+    },
+    {
+        "word": "that",
+        "startTime": 159000,
+        "endTime": 159100,
+        "group": 10
+    },
+    {
+        "word": "all",
+        "startTime": 159100,
+        "endTime": 159300,
+        "group": 10
+    },
+    {
+        "word": "have",
+        "startTime": 159300,
+        "endTime": 159500,
+        "group": 10
+    },
+    {
+        "word": "similar",
+        "startTime": 159500,
+        "endTime": 159800,
+        "group": 10
+    },
+    {
+        "word": "impacts",
+        "startTime": 159800,
+        "endTime": 160600,
+        "group": 10
+    },
+    {
+        "word": "on",
+        "startTime": 160600,
+        "endTime": 160900,
+        "group": 10
+    },
+    {
+        "word": "the",
+        "startTime": 160900,
+        "endTime": 161000,
+        "group": 10
+    },
+    {
+        "word": "code",
+        "startTime": 161000,
+        "endTime": 161400,
+        "group": 10
+    },
+    {
+        "word": "for",
+        "startTime": 161400,
+        "endTime": 162500,
+        "group": 10
+    },
+    {
+        "word": "instance",
+        "startTime": 162500,
+        "endTime": 162900,
+        "group": 10
+    },
+    {
+        "word": "bloaters",
+        "startTime": 162900,
+        "endTime": 163800,
+        "group": 10
+    },
+    {
+        "word": "10th",
+        "startTime": 163800,
+        "endTime": 164200,
+        "group": 10
+    },
+    {
+        "word": "result",
+        "startTime": 164200,
+        "endTime": 164600,
+        "group": 10
+    },
+    {
+        "word": "in",
+        "startTime": 164600,
+        "endTime": 164700,
+        "group": 10
+    },
+    {
+        "word": "code",
+        "startTime": 164700,
+        "endTime": 165000,
+        "group": 10
+    },
+    {
+        "word": "becoming",
+        "startTime": 165000,
+        "endTime": 165400,
+        "group": 10
+    },
+    {
+        "word": "larger",
+        "startTime": 165400,
+        "endTime": 165500,
+        "group": 10
+    },
+    {
+        "word": "than",
+        "startTime": 165500,
+        "endTime": 165900,
+        "group": 10
+    },
+    {
+        "word": "necessary",
+        "startTime": 165900,
+        "endTime": 166200,
+        "group": 10
+    },
+    {
+        "word": "couplers",
+        "startTime": 166200,
+        "endTime": 167600,
+        "group": 10
+    },
+    {
+        "word": "introduce",
+        "startTime": 167600,
+        "endTime": 168200,
+        "group": 10
+    },
+    {
+        "word": "unnecessary",
+        "startTime": 168200,
+        "endTime": 168900,
+        "group": 10
+    },
+    {
+        "word": "coupling",
+        "startTime": 168900,
+        "endTime": 169400,
+        "group": 10
+    },
+    {
+        "word": "into",
+        "startTime": 169400,
+        "endTime": 169700,
+        "group": 10
+    },
+    {
+        "word": "the",
+        "startTime": 169700,
+        "endTime": 169800,
+        "group": 10
+    },
+    {
+        "word": "application",
+        "startTime": 169800,
+        "endTime": 170500,
+        "group": 10
+    },
+    {
+        "word": "obvi",
+        "startTime": 170500,
+        "endTime": 171700,
+        "group": 10
+    },
+    {
+        "word": "skaters,",
+        "startTime": 171700,
+        "endTime": 172100,
+        "group": 10
+    },
+    {
+        "word": "make",
+        "startTime": 172100,
+        "endTime": 172300,
+        "group": 10
+    },
+    {
+        "word": "it",
+        "startTime": 172300,
+        "endTime": 172400,
+        "group": 10
+    },
+    {
+        "word": "more",
+        "startTime": 172400,
+        "endTime": 172600,
+        "group": 10
+    },
+    {
+        "word": "difficult",
+        "startTime": 172600,
+        "endTime": 172700,
+        "group": 10
+    },
+    {
+        "word": "to",
+        "startTime": 172700,
+        "endTime": 173100,
+        "group": 10
+    },
+    {
+        "word": "quickly",
+        "startTime": 173100,
+        "endTime": 173400,
+        "group": 10
+    },
+    {
+        "word": "understand",
+        "startTime": 173400,
+        "endTime": 174200,
+        "group": 10
+    },
+    {
+        "word": "how",
+        "startTime": 174200,
+        "endTime": 174600,
+        "group": 10
+    },
+    {
+        "word": "some",
+        "startTime": 174600,
+        "endTime": 174800,
+        "group": 10
+    },
+    {
+        "word": "part",
+        "startTime": 174800,
+        "endTime": 175100,
+        "group": 10
+    },
+    {
+        "word": "of",
+        "startTime": 175100,
+        "endTime": 175200,
+        "group": 10
+    },
+    {
+        "word": "your",
+        "startTime": 175200,
+        "endTime": 175400,
+        "group": 10
+    },
+    {
+        "word": "application",
+        "startTime": 175400,
+        "endTime": 175500,
+        "group": 10
+    },
+    {
+        "word": "words",
+        "startTime": 175500,
+        "endTime": 176300,
+        "group": 10
+    },
+    {
+        "word": "and",
+        "startTime": 176300,
+        "endTime": 177200,
+        "group": 10
+    },
+    {
+        "word": "test",
+        "startTime": 177200,
+        "endTime": 177400,
+        "group": 10
+    },
+    {
+        "word": "smells",
+        "startTime": 177400,
+        "endTime": 177900,
+        "group": 10
+    },
+    {
+        "word": "make",
+        "startTime": 177900,
+        "endTime": 178400,
+        "group": 10
+    },
+    {
+        "word": "tests",
+        "startTime": 178400,
+        "endTime": 178800,
+        "group": 10
+    },
+    {
+        "word": "more",
+        "startTime": 178800,
+        "endTime": 179000,
+        "group": 10
+    },
+    {
+        "word": "difficult",
+        "startTime": 179000,
+        "endTime": 179400,
+        "group": 10
+    },
+    {
+        "word": "to",
+        "startTime": 179400,
+        "endTime": 179500,
+        "group": 10
+    },
+    {
+        "word": "write",
+        "startTime": 179500,
+        "endTime": 179800,
+        "group": 10
+    },
+    {
+        "word": "and",
+        "startTime": 179800,
+        "endTime": 180100,
+        "group": 10
+    },
+    {
+        "word": "maintain",
+        "startTime": 180100,
+        "endTime": 180600,
+        "group": 10
+    },
+    {
+        "word": "or",
+        "startTime": 180600,
+        "endTime": 181200,
+        "group": 10
+    },
+    {
+        "word": "perhaps",
+        "startTime": 181200,
+        "endTime": 181400,
+        "group": 10
+    },
+    {
+        "word": "less",
+        "startTime": 181400,
+        "endTime": 181900,
+        "group": 10
+    },
+    {
+        "word": "reliable",
+        "startTime": 181900,
+        "endTime": 182300,
+        "group": 10
+    },
+    {
+        "word": "when",
+        "startTime": 182300,
+        "endTime": 182900,
+        "group": 10
+    },
+    {
+        "word": "they're",
+        "startTime": 182900,
+        "endTime": 183000,
+        "group": 10
+    },
+    {
+        "word": "run",
+        "startTime": 183000,
+        "endTime": 183500,
+        "group": 10
+    },
+    {
+        "word": "Some",
+        "startTime": 184500,
+        "endTime": 185000,
+        "group": 11
+    },
+    {
+        "word": "code",
+        "startTime": 185000,
+        "endTime": 185200,
+        "group": 11
+    },
+    {
+        "word": "smells",
+        "startTime": 185200,
+        "endTime": 185600,
+        "group": 11
+    },
+    {
+        "word": "you",
+        "startTime": 185600,
+        "endTime": 185700,
+        "group": 11
+    },
+    {
+        "word": "can",
+        "startTime": 185700,
+        "endTime": 185800,
+        "group": 11
+    },
+    {
+        "word": "identify",
+        "startTime": 185800,
+        "endTime": 186100,
+        "group": 11
+    },
+    {
+        "word": "with",
+        "startTime": 186100,
+        "endTime": 186700,
+        "group": 11
+    },
+    {
+        "word": "static",
+        "startTime": 186700,
+        "endTime": 187100,
+        "group": 11
+    },
+    {
+        "word": "code",
+        "startTime": 187100,
+        "endTime": 187400,
+        "group": 11
+    },
+    {
+        "word": "analysis",
+        "startTime": 187400,
+        "endTime": 187500,
+        "group": 11
+    },
+    {
+        "word": "tools",
+        "startTime": 187500,
+        "endTime": 187900,
+        "group": 11
+    },
+    {
+        "word": "like",
+        "startTime": 187900,
+        "endTime": 188800,
+        "group": 11
+    },
+    {
+        "word": "independent.",
+        "startTime": 188800,
+        "endTime": 189600,
+        "group": 11
+    },
+    {
+        "word": "For",
+        "startTime": 189600,
+        "endTime": 190600,
+        "group": 11
+    },
+    {
+        "word": "instance.",
+        "startTime": 190600,
+        "endTime": 191000,
+        "group": 11
+    },
+    {
+        "word": "You",
+        "startTime": 191000,
+        "endTime": 191400,
+        "group": 11
+    },
+    {
+        "word": "can",
+        "startTime": 191400,
+        "endTime": 191600,
+        "group": 11
+    },
+    {
+        "word": "easily",
+        "startTime": 191600,
+        "endTime": 191800,
+        "group": 11
+    },
+    {
+        "word": "write",
+        "startTime": 191800,
+        "endTime": 192200,
+        "group": 11
+    },
+    {
+        "word": "a",
+        "startTime": 192200,
+        "endTime": 192300,
+        "group": 11
+    },
+    {
+        "word": "query",
+        "startTime": 192300,
+        "endTime": 192600,
+        "group": 11
+    },
+    {
+        "word": "in",
+        "startTime": 192600,
+        "endTime": 193000,
+        "group": 11
+    },
+    {
+        "word": "independent",
+        "startTime": 193000,
+        "endTime": 193700,
+        "group": 11
+    },
+    {
+        "word": "to",
+        "startTime": 193700,
+        "endTime": 194000,
+        "group": 11
+    },
+    {
+        "word": "return",
+        "startTime": 194000,
+        "endTime": 194500,
+        "group": 11
+    },
+    {
+        "word": "all",
+        "startTime": 194500,
+        "endTime": 194800,
+        "group": 11
+    },
+    {
+        "word": "methods",
+        "startTime": 194800,
+        "endTime": 195200,
+        "group": 11
+    },
+    {
+        "word": "in",
+        "startTime": 195200,
+        "endTime": 195400,
+        "group": 11
+    },
+    {
+        "word": "your",
+        "startTime": 195400,
+        "endTime": 195600,
+        "group": 11
+    },
+    {
+        "word": "application",
+        "startTime": 195600,
+        "endTime": 195900,
+        "group": 11
+    },
+    {
+        "word": "that",
+        "startTime": 195900,
+        "endTime": 196800,
+        "group": 11
+    },
+    {
+        "word": "exceed",
+        "startTime": 196800,
+        "endTime": 197400,
+        "group": 11
+    },
+    {
+        "word": "a",
+        "startTime": 197400,
+        "endTime": 197500,
+        "group": 11
+    },
+    {
+        "word": "certain",
+        "startTime": 197500,
+        "endTime": 197500,
+        "group": 11
+    },
+    {
+        "word": "number",
+        "startTime": 197500,
+        "endTime": 197900,
+        "group": 11
+    },
+    {
+        "word": "of",
+        "startTime": 197900,
+        "endTime": 198200,
+        "group": 11
+    },
+    {
+        "word": "lines",
+        "startTime": 198200,
+        "endTime": 198600,
+        "group": 11
+    },
+    {
+        "word": "of",
+        "startTime": 198600,
+        "endTime": 198700,
+        "group": 11
+    },
+    {
+        "word": "code.",
+        "startTime": 198700,
+        "endTime": 199000,
+        "group": 11
+    },
+    {
+        "word": "These",
+        "startTime": 199900,
+        "endTime": 200300,
+        "group": 12
+    },
+    {
+        "word": "kinds",
+        "startTime": 200300,
+        "endTime": 200500,
+        "group": 12
+    },
+    {
+        "word": "of",
+        "startTime": 200500,
+        "endTime": 200700,
+        "group": 12
+    },
+    {
+        "word": "tools",
+        "startTime": 200700,
+        "endTime": 201000,
+        "group": 12
+    },
+    {
+        "word": "can",
+        "startTime": 201000,
+        "endTime": 201100,
+        "group": 12
+    },
+    {
+        "word": "help",
+        "startTime": 201100,
+        "endTime": 201200,
+        "group": 12
+    },
+    {
+        "word": "you",
+        "startTime": 201200,
+        "endTime": 201400,
+        "group": 12
+    },
+    {
+        "word": "identify",
+        "startTime": 201400,
+        "endTime": 201500,
+        "group": 12
+    },
+    {
+        "word": "potential",
+        "startTime": 201500,
+        "endTime": 202300,
+        "group": 12
+    },
+    {
+        "word": "problem",
+        "startTime": 202300,
+        "endTime": 202900,
+        "group": 12
+    },
+    {
+        "word": "areas",
+        "startTime": 202900,
+        "endTime": 203300,
+        "group": 12
+    },
+    {
+        "word": "in",
+        "startTime": 203300,
+        "endTime": 203600,
+        "group": 12
+    },
+    {
+        "word": "your",
+        "startTime": 203600,
+        "endTime": 203800,
+        "group": 12
+    },
+    {
+        "word": "code.",
+        "startTime": 203800,
+        "endTime": 204100,
+        "group": 12
+    },
+    {
+        "word": "So",
+        "startTime": 204100,
+        "endTime": 204600,
+        "group": 12
+    },
+    {
+        "word": "you",
+        "startTime": 204600,
+        "endTime": 204700,
+        "group": 12
+    },
+    {
+        "word": "can",
+        "startTime": 204700,
+        "endTime": 204900,
+        "group": 12
+    },
+    {
+        "word": "better",
+        "startTime": 204900,
+        "endTime": 205100,
+        "group": 12
+    },
+    {
+        "word": "direct",
+        "startTime": 205100,
+        "endTime": 205600,
+        "group": 12
+    },
+    {
+        "word": "your",
+        "startTime": 205600,
+        "endTime": 205800,
+        "group": 12
+    },
+    {
+        "word": "ra",
+        "startTime": 205800,
+        "endTime": 206000,
+        "group": 12
+    },
+    {
+        "word": "factoring",
+        "startTime": 206000,
+        "endTime": 206500,
+        "group": 12
+    },
+    {
+        "word": "efforts.",
+        "startTime": 206500,
+        "endTime": 206900,
+        "group": 12
+    },
+    {
+        "word": "I'm",
+        "startTime": 208000,
+        "endTime": 208500,
+        "group": 13
+    },
+    {
+        "word": "a",
+        "startTime": 208500,
+        "endTime": 208600,
+        "group": 13
+    },
+    {
+        "word": "dive",
+        "startTime": 208600,
+        "endTime": 208800,
+        "group": 13
+    },
+    {
+        "word": "into",
+        "startTime": 208800,
+        "endTime": 209000,
+        "group": 13
+    },
+    {
+        "word": "some",
+        "startTime": 209000,
+        "endTime": 209400,
+        "group": 13
+    },
+    {
+        "word": "different",
+        "startTime": 209400,
+        "endTime": 209800,
+        "group": 13
+    },
+    {
+        "word": "code",
+        "startTime": 209800,
+        "endTime": 210000,
+        "group": 13
+    },
+    {
+        "word": "smells",
+        "startTime": 210000,
+        "endTime": 210400,
+        "group": 13
+    },
+    {
+        "word": "and",
+        "startTime": 210400,
+        "endTime": 210600,
+        "group": 13
+    },
+    {
+        "word": "how",
+        "startTime": 210600,
+        "endTime": 210700,
+        "group": 13
+    },
+    {
+        "word": "to",
+        "startTime": 210700,
+        "endTime": 210800,
+        "group": 13
+    },
+    {
+        "word": "correct",
+        "startTime": 210800,
+        "endTime": 211000,
+        "group": 13
+    },
+    {
+        "word": "them",
+        "startTime": 211000,
+        "endTime": 211300,
+        "group": 13
+    },
+    {
+        "word": "in",
+        "startTime": 211300,
+        "endTime": 211700,
+        "group": 13
+    },
+    {
+        "word": "future",
+        "startTime": 211700,
+        "endTime": 211900,
+        "group": 13
+    },
+    {
+        "word": "tips.",
+        "startTime": 211900,
+        "endTime": 212400,
+        "group": 13
+    },
+    {
+        "word": "In",
+        "startTime": 212400,
+        "endTime": 213200,
+        "group": 13
+    },
+    {
+        "word": "the",
+        "startTime": 213200,
+        "endTime": 213200,
+        "group": 13
+    },
+    {
+        "word": "meantime.",
+        "startTime": 213200,
+        "endTime": 213500,
+        "group": 13
+    },
+    {
+        "word": "If",
+        "startTime": 213500,
+        "endTime": 214100,
+        "group": 13
+    },
+    {
+        "word": "you",
+        "startTime": 214100,
+        "endTime": 214100,
+        "group": 13
+    },
+    {
+        "word": "want",
+        "startTime": 214100,
+        "endTime": 214400,
+        "group": 13
+    },
+    {
+        "word": "to",
+        "startTime": 214400,
+        "endTime": 214500,
+        "group": 13
+    },
+    {
+        "word": "get",
+        "startTime": 214500,
+        "endTime": 214600,
+        "group": 13
+    },
+    {
+        "word": "up",
+        "startTime": 214600,
+        "endTime": 214700,
+        "group": 13
+    },
+    {
+        "word": "to",
+        "startTime": 214700,
+        "endTime": 214800,
+        "group": 13
+    },
+    {
+        "word": "speed",
+        "startTime": 214800,
+        "endTime": 214900,
+        "group": 13
+    },
+    {
+        "word": "the",
+        "startTime": 214900,
+        "endTime": 215600,
+        "group": 13
+    },
+    {
+        "word": "best",
+        "startTime": 215600,
+        "endTime": 215800,
+        "group": 13
+    },
+    {
+        "word": "resource",
+        "startTime": 215800,
+        "endTime": 216100,
+        "group": 13
+    },
+    {
+        "word": "I",
+        "startTime": 216100,
+        "endTime": 216300,
+        "group": 13
+    },
+    {
+        "word": "can",
+        "startTime": 216300,
+        "endTime": 216500,
+        "group": 13
+    },
+    {
+        "word": "recommend",
+        "startTime": 216500,
+        "endTime": 216800,
+        "group": 13
+    },
+    {
+        "word": "is",
+        "startTime": 216800,
+        "endTime": 217000,
+        "group": 13
+    },
+    {
+        "word": "my",
+        "startTime": 217000,
+        "endTime": 217200,
+        "group": 13
+    },
+    {
+        "word": "refactoring",
+        "startTime": 217200,
+        "endTime": 217700,
+        "group": 13
+    },
+    {
+        "word": "fundamentals",
+        "startTime": 217700,
+        "endTime": 218300,
+        "group": 13
+    },
+    {
+        "word": "course",
+        "startTime": 218300,
+        "endTime": 218500,
+        "group": 13
+    },
+    {
+        "word": "on",
+        "startTime": 218500,
+        "endTime": 219000,
+        "group": 13
+    },
+    {
+        "word": "plural",
+        "startTime": 219000,
+        "endTime": 219300,
+        "group": 13
+    },
+    {
+        "word": "sight",
+        "startTime": 219300,
+        "endTime": 219500,
+        "group": 13
+    },
+    {
+        "word": "or",
+        "startTime": 219500,
+        "endTime": 220200,
+        "group": 13
+    },
+    {
+        "word": "some",
+        "startTime": 220200,
+        "endTime": 220400,
+        "group": 13
+    },
+    {
+        "word": "of",
+        "startTime": 220400,
+        "endTime": 220500,
+        "group": 13
+    },
+    {
+        "word": "the",
+        "startTime": 220500,
+        "endTime": 220600,
+        "group": 13
+    },
+    {
+        "word": "Articles",
+        "startTime": 220600,
+        "endTime": 220800,
+        "group": 13
+    },
+    {
+        "word": "and",
+        "startTime": 220800,
+        "endTime": 221200,
+        "group": 13
+    },
+    {
+        "word": "books",
+        "startTime": 221200,
+        "endTime": 221400,
+        "group": 13
+    },
+    {
+        "word": "listed",
+        "startTime": 221400,
+        "endTime": 221900,
+        "group": 13
+    },
+    {
+        "word": "at",
+        "startTime": 221900,
+        "endTime": 222300,
+        "group": 13
+    },
+    {
+        "word": "the",
+        "startTime": 222300,
+        "endTime": 222500,
+        "group": 13
+    },
+    {
+        "word": "show",
+        "startTime": 222500,
+        "endTime": 222700,
+        "group": 13
+    },
+    {
+        "word": "notes",
+        "startTime": 222700,
+        "endTime": 223000,
+        "group": 13
+    },
+    {
+        "word": "for",
+        "startTime": 223000,
+        "endTime": 223200,
+        "group": 13
+    },
+    {
+        "word": "this",
+        "startTime": 223200,
+        "endTime": 223400,
+        "group": 13
+    },
+    {
+        "word": "episode.",
+        "startTime": 223400,
+        "endTime": 223600,
+        "group": 13
+    },
+    {
+        "word": "That's",
+        "startTime": 225400,
+        "endTime": 225800,
+        "group": 14
+    },
+    {
+        "word": "it",
+        "startTime": 225800,
+        "endTime": 225900,
+        "group": 14
+    },
+    {
+        "word": "for",
+        "startTime": 225900,
+        "endTime": 226100,
+        "group": 14
+    },
+    {
+        "word": "this",
+        "startTime": 226100,
+        "endTime": 226100,
+        "group": 14
+    },
+    {
+        "word": "week.",
+        "startTime": 226100,
+        "endTime": 226300,
+        "group": 14
+    },
+    {
+        "word": "Thanks",
+        "startTime": 226300,
+        "endTime": 227200,
+        "group": 14
+    },
+    {
+        "word": "for",
+        "startTime": 227200,
+        "endTime": 227200,
+        "group": 14
+    },
+    {
+        "word": "listening.",
+        "startTime": 227200,
+        "endTime": 227700,
+        "group": 14
+    },
+    {
+        "word": "Don't",
+        "startTime": 227700,
+        "endTime": 228200,
+        "group": 14
+    },
+    {
+        "word": "forget.",
+        "startTime": 228200,
+        "endTime": 228500,
+        "group": 14
+    },
+    {
+        "word": "You",
+        "startTime": 228500,
+        "endTime": 228600,
+        "group": 14
+    },
+    {
+        "word": "can",
+        "startTime": 228600,
+        "endTime": 228800,
+        "group": 14
+    },
+    {
+        "word": "also",
+        "startTime": 228800,
+        "endTime": 228900,
+        "group": 14
+    },
+    {
+        "word": "subscribe",
+        "startTime": 228900,
+        "endTime": 229100,
+        "group": 14
+    },
+    {
+        "word": "to",
+        "startTime": 229100,
+        "endTime": 229700,
+        "group": 14
+    },
+    {
+        "word": "my",
+        "startTime": 229700,
+        "endTime": 229700,
+        "group": 14
+    },
+    {
+        "word": "weekly",
+        "startTime": 229700,
+        "endTime": 230000,
+        "group": 14
+    },
+    {
+        "word": "devtips",
+        "startTime": 230000,
+        "endTime": 230400,
+        "group": 14
+    },
+    {
+        "word": "email",
+        "startTime": 230400,
+        "endTime": 231000,
+        "group": 14
+    },
+    {
+        "word": "at",
+        "startTime": 231000,
+        "endTime": 231500,
+        "group": 14
+    },
+    {
+        "word": "our",
+        "startTime": 231500,
+        "endTime": 231600,
+        "group": 14
+    },
+    {
+        "word": "dallas.com",
+        "startTime": 231600,
+        "endTime": 232300,
+        "group": 14
+    },
+    {
+        "word": "tips.",
+        "startTime": 232300,
+        "endTime": 233500,
+        "group": 14
+    }
+]
