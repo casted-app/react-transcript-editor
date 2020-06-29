@@ -39,7 +39,6 @@ const createContentFromEntityList = (currentContent, newEntities) => {
     let speaker = block.data.speaker;
 
     if (!speaker) {
-      console.log('speaker', speaker, block);
       speaker = 'U_UKN';
     }
     const updatedBlock = {

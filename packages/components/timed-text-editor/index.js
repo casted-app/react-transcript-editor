@@ -94,7 +94,7 @@ class TimedTextEditor extends React.Component {
           () => {
             // const data = this.updateTimestampsForEditorState();
             const data = this.getEditorContent( this.props.autoSaveContentType, this.props.title);
-            this.props.handleAutoSaveChanges(data);
+            if(this.props.handleAutoSaveChanges) this.props.handleAutoSaveChanges(data);
           }
         );
       }, 1000);
@@ -282,7 +282,7 @@ class TimedTextEditor extends React.Component {
           title
         );
 
-        this.props.handleAutoSaveChanges(data);
+        if(handleAutoSaveChanges) this.props.handleAutoSaveChanges(data);
       }
     );
   };
@@ -302,7 +302,7 @@ class TimedTextEditor extends React.Component {
     const tKey = 84;
 
     if (e.keyCode === enterKey) {
-      console.log('customKeyBindingFn');
+      // console.log('customKeyBindingFn');
 
       return "split-paragraph";
     }
