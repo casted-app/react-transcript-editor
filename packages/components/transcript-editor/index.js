@@ -89,7 +89,7 @@ class TranscriptEditor extends React.Component {
     let displayMedia = null;
     // if the mediaUrl is for an audio file, then extend TimedTextEditor to be full width
     if (this.props.mediaType === "audio") {
-      console.log("this.props.mediaType", this.props.mediaType);
+      // console.log("this.props.mediaType", this.props.mediaType);
       gridDisplay = null;
       displayMedia = { display: "none" };
     }
@@ -249,7 +249,7 @@ class TranscriptEditor extends React.Component {
   };
 
   handleExportToggle = () => {
-    console.log("handleExportToggle", this.state.showExportOptions);
+    // console.log("handleExportToggle", this.state.showExportOptions);
     this.setState(
       prevState => ({
         showExportOptions: !prevState.showExportOptions
@@ -269,7 +269,7 @@ class TranscriptEditor extends React.Component {
 
   handleExportOptionsChange = e => {
     const exportFormat = e.target.value;
-    console.log(exportFormat);
+    // console.log(exportFormat);
     if (exportFormat !== "instructions") {
       const fileName = this.props.title
         ? this.props.title
