@@ -1,7 +1,7 @@
 {
-  "name": "@bbc/react-transcript-editor",
-  "description": "A React component to make transcribing audio and video easier and faster.",
-  "version": "1.4.0",
+  "name": "casted-transcript-editor",
+  "description": "A React component to make transcribing audio and video easier and faster, forked from @BBC/react-transcript-editor",
+  "version": "0.2.0",
   "keywords": [
     "transcript",
     "transcriptions",
@@ -107,26 +107,14 @@
     "webpack-cli": "^3.3.9",
     "why-did-you-update": "^1.0.6"
   },
-  "contributors": [
-    {
-      "name": "Pietro Passarelli",
-      "email": "pietro.passarelli@bbc.co.uk",
-      "url": "https://github.com/pietrop"
-    },
-    {
-      "name": "James Dooley",
-      "email": "james.dooley@bbc.co.uk",
-      "url": "https://github.com/jamesdools"
-    }
-  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bbc/react-transcript-editor/issues"
+    "url": "https://github.com/casted-app/react-transcript-editor/issues"
   },
-  "homepage": "https://github.com/bbc/react-transcript-editor",
+  "homepage": "https://github.com/casted-app/react-transcript-editor",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbc/react-transcript-editor.git"
+    "url": "git+https://github.com/casted-app/react-transcript-editor.git"
   },
   "browserslist": [
     ">0.2%",
