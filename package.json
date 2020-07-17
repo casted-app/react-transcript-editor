@@ -1,7 +1,7 @@
 {
   "name": "casted-transcript-editor",
   "description": "A React component to make transcribing audio and video easier and faster, forked from @BBC/react-transcript-editor",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "keywords": [
     "transcript",
     "transcriptions",
