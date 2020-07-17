@@ -165,7 +165,7 @@ class WrapperBlock extends React.Component {
   };
 
   visibilityChanged = (isVisible) => {
-    console.log("ISVISIBLE", isVisible);
+    // console.log("ISVISIBLE", isVisible);
   }
 
   render() {
