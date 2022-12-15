@@ -25,6 +25,8 @@ jobs:
 
       - run: npm install
       - run: npm run build:component
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
       - name: Send custom JSON data to Slack workflow
         if: always()
