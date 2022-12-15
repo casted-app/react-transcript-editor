@@ -20,6 +20,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '16.x'
+          registry-url: 'https://npm.pkg.github.com'
+          scope: '@casted-app'
 
       - run: npm install
       - run: npm run build:component
