@@ -3,6 +3,7 @@ demo
 lib
 packages
 build
+docs
 .babelrc
 .babel.config.js
 webpack.config.js
