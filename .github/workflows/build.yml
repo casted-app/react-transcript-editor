@@ -1,0 +1,39 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+name: Build
+
+on: push
+
+jobs:
+  setup-build-and-build:
+    name: Setup and Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16.x'
+          registry-url: 'https://npm.pkg.github.com'
+          scope: '@casted-app'
+
+      - run: npm install
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+      - run: npm run build:component
+
+      - name: Send custom JSON data to Slack workflow
+        if: always()
+        id: slack
+        uses: slackapi/slack-github-action@v1.14.0
+        with:
+          payload: '{"branch":"${{ github.ref }}","repo":"${{ github.repository }}","action":"Build","status":"${{ job.status }}", "run_url": "https://github.com/${{github.repository}}/actions/runs/${{github.run_id}}"}'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
