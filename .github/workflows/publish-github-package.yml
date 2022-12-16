@@ -20,11 +20,12 @@ jobs:
           node-version: 16
           registry-url: 'https://npm.pkg.github.com'
           scope: '@casted-app'
+
       - run: npm install
-      - run: npm run pre:publish
-      - run: npm publish dist
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - run: npm run pre:publish
+      - run: npm publish dist
 
       - name: Send custom JSON data to Slack workflow
         if: always()
