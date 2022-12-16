@@ -21,8 +21,8 @@ jobs:
           registry-url: 'https://npm.pkg.github.com'
           scope: '@casted-app'
       - run: npm install
-      - run: npm run compile
-      - run: npm publish
+      - run: npm run pre:publish
+      - run: npm publish dist
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
